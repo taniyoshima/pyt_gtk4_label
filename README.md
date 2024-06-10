@@ -4,11 +4,8 @@
 
 ## 内容 
 
-
-<br>
-
-[program]
-
+- [ラベルの文字の表示位置を調整する（xalign, justify)](./01_xalign/README.md)
+- [ラベルの文字を]
 
 <br>
 
