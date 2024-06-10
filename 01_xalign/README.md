@@ -20,6 +20,14 @@ cambalacheで対象のWidgdetのPropertiesを開いて、項目labelの入力欄
 
 ![pic](../data/cambalache01.webp)
 
+```
+          <object class="GtkLabel">
+            <property name="label">Label2
+復数行表示です。
+左揃えです。</property>
+          </object>
+```
+
 ## 参考にしたHP
 
 [戻る](../README.md)
